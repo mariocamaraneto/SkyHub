@@ -40,3 +40,11 @@ The dimenssions are:  small (320x240), medium (384x288) and large (640x480).
 2. The endpoint '/photo/<name>' return a photo in a new dimenssion to download.
 
 In this case, I chose save files in filesystem and not in mongoDB because I prefer something more simple and faster. 
+
+## Tests
+
+You can run tests use:
+```
+  python TestPhotoMisc.py
+  python TestWebservice.py
+```
