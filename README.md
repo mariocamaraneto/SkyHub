@@ -43,7 +43,7 @@ In this case, I chose save files in filesystem and not in mongoDB because I pref
 
 ## Tests
 
-You can run tests use:
+You can run tests using:
 ```
   python TestPhotoMisc.py
   python TestWebservice.py
